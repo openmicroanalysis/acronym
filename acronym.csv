@@ -1,0 +1,51 @@
+## short name, acronym, long name
+abf, ABF, annular bright field
+adf, ADF, annular dark field
+afm, AFM, atomic force microscopy
+bf, BF, bright field
+bto, BTO, $BaTiO_3$
+cbed, CBED, convergent beam electron diffraction
+ccd, CCD, charged coupled device
+cl, CL, core-loss
+dft, DFT, density functional  theory
+dos, DOS, density of states
+dp, DP, diffraction pattern
+ebsd, EBSD, electron backsctter diffraction
+edx, EDX, energy-dispersive X-ray
+eel, EEL, electron energy-loss
+eels, EELS, electron energy-loss spectroscopy
+eftem, EFTEM, energy-filtering transmission electron microscopy
+elnes, ELNES, energy-loss near-edge structure
+epma, EPMA, electron probe microanalyzer
+exafs, EXAFS, extended X-ray absorption fine structure
+exelfs, EXELFS, extended energy-loss fine structure
+feg, FEG, field emission gun
+fem, FEM, fluctuation electron microscopy
+fib, FIB, focused ion beam
+fwhm, FWHM, full width at half-maximum
+haadf, HAADF, high-angle annular dark field
+hrtem, HRTEM, high resolution transmission electron microscopy
+lacbed, LACBED, large-angle convergent-beam electron diffraction
+ldos, LDOS, local density of states
+ll, LL, low-loss
+mbe, MBE, molecular-beam epitaxy
+pca, PCA, principle component analysis
+rheed, RHEED, reflection high-energy electron diffraction
+rsms, RSMS, real space multiple scattering theory
+sad, SAD, selected area diffraction
+scem, SCEM, scanning confocal electron microscopy
+sem, SEM, scanning electron microscopy
+si, SI, spectrum-imaging
+sims, SIMS, secondary-ion mass spectroscopy
+stem, STEM, scanning transmission electron microscopy
+stm, STEM, scanning tunneling microscopy
+tds, TDS, thermal diffuse scattering
+tem, TEM, transmission electron micoroscopy
+uhv, UHV, ultrahigh vacuum
+wbdf, WBDF, weak-beam dark field
+wdx, WDX, wavelength-dispersive X-ray
+xanes, XANES, X-ray absoption near edge structure
+xas, XAS, X-ray absorption spectroscopy
+xps, XPS, X-ray photoelectron spectroscopy
+zl, ZL, zero-loss
+zlp, ZLP, zero-loss peak
